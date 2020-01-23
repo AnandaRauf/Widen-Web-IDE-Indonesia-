@@ -1,0 +1,19 @@
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\bin\Debug\Widen(Web IDE Indonesia).exe
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\bin\Debug\Widen(Web IDE Indonesia).pdb
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\bin\Debug\Widen(Web IDE Indonesia).exe.config
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\bin\Debug\MetroFramework.Design.dll
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\bin\Debug\MetroFramework.dll
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.AboutApp.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.DownloadFile.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.Form1.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.Resources.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.RIBrowser.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.Toolbox.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen_Web_IDE_Indonesia_.WebIDE.resources
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen(Web IDE Indonesia).vbproj.GenerateResource.cache
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen(Web IDE Indonesia).vbproj.CoreCompileInputs.cache
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen(Web IDE Indonesia).vbproj.CopyComplete
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen(Web IDE Indonesia).exe
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen(Web IDE Indonesia).xml
+C:\Users\Diar\source\repos\Widen(Web IDE Indonesia)\Widen(Web IDE Indonesia)\obj\Debug\Widen(Web IDE Indonesia).pdb
