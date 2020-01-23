@@ -17,21 +17,23 @@ You can Donate for software become very good software by participating contribut
 
 Paypal : 
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2M3R3VLR7BZ36)
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="2M3R3VLR7BZ36" />
-<input type="image" src="https://www.paypalobjects.com/id_ID/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_ZA/i/scr/pixel.gif" width="1" height="1" />
+<input type="hidden" name="hosted_button_id" value="M2PAQFSADHMTA" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
+<img alt="" border="0" src="https://www.paypal.com/en_ZA/i/scr/pixel.gif" width="1" height="1"/>
 </form>
+
 
 
 Ovocash : 
 
-https://drive.google.com/open?id=1EhJtjrR_xxQGNLwuv4B2uEmGN2HS6EUC
+[![ovocash](https://drive.google.com/open?id=1EhJtjrR_xxQGNLwuv4B2uEmGN2HS6EUC)]
 
 Dana : 
+[![dana](https://drive.google.com/open?id=1Ecs0e7r8L8oW8EHr7oYVReQAw3rztdIS)
 
-https://drive.google.com/open?id=1Ecs0e7r8L8oW8EHr7oYVReQAw3rztdIS
 
 BRI : 
 
