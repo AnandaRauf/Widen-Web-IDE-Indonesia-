@@ -1,4 +1,4 @@
-Web IDE Indonesia Beta Version 1.0 Developed by Ananda Rauf Maududi (Owner Tech Source Code Store) + Licence Software. 
+Web IDE Indonesia Beta Version 1.0.0 Developed by Ananda Rauf Maududi (Owner Tech Source Code Store) + Licence Software. 
 
 Feature :
 
