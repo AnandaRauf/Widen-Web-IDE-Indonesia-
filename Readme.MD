@@ -29,10 +29,10 @@ Paypal :
 
 Ovocash : 
 
-[!][ovocash](https://drive.google.com/open?id=1EhJtjrR_xxQGNLwuv4B2uEmGN2HS6EUC)] (https://drive.google.com/open?id=1EhJtjrR_xxQGNLwuv4B2uEmGN2HS6EUC)
+[![ovocash](https://drive.google.com/open?id=1EhJtjrR_xxQGNLwuv4B2uEmGN2HS6EUC)] (https://drive.google.com/open?id=1EhJtjrR_xxQGNLwuv4B2uEmGN2HS6EUC)
 
 Dana : 
-[!][dana] (https://drive.google.com/open?id=1Ecs0e7r8L8oW8EHr7oYVReQAw3rztdIS)(https://drive.google.com/open?id=1Ecs0e7r8L8oW8EHr7oYVReQAw3rztdIS)
+[![dana] (https://drive.google.com/open?id=1Ecs0e7r8L8oW8EHr7oYVReQAw3rztdIS)(https://drive.google.com/open?id=1Ecs0e7r8L8oW8EHr7oYVReQAw3rztdIS)
 
 
 BRI : 
