@@ -4,7 +4,7 @@ Feature :
 
 1. Text Editor 
 
-2. Menu Text Editor ( Open file / open project, New Project / New File, Save , Save as, Toolbox : Connect Xampp dan Browser : RI Browser)
+2. Menu Text Editor ( Open file / open project, New Project / New File, Save , Save as, Toolbox : Connect Xampp and Browser : RI Browser)
 
 Link Video Demo : https://www.youtube.com/watch?v=o4ZLfCS0wIc 
 
